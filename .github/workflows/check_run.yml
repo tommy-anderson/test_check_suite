@@ -1,4 +1,4 @@
-name: Push
+name: CheckRun
 
 on:
   check_run:
