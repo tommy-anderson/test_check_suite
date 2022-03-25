@@ -1,4 +1,4 @@
-name: Push
+name: CheckSuite
 
 on:
   check_suite:
